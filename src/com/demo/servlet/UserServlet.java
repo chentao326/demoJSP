@@ -25,8 +25,8 @@ public class UserServlet extends HttpServlet {
 	protected void doGet(HttpServletRequest request,
 						 HttpServletResponse response) throws ServletException, IOException {
 		String method = (String)request.getParameter("method");
+		request.setCharacterEncoding("utf-8");
 		if(method==null) {
-//			系统类
 			PrintWriter out = response.getWriter();
 			out.println("invalid request!");
 		} else if(method.equals("login")) {

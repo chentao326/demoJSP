@@ -8,9 +8,7 @@ public class UserBean {
 		boolean isValid = false;
 		DBAccess db = new DBAccess();
 		if(db.createConn()) {
-			String sql = "select * from jsp_" +
-					"" +
-					"user where username='"+username+"' and password='"+password+"'";
+			String sql = "select * from jsp_user where username='"+username+"' and password='"+password+"'";
 			db.query(sql);
 			if(db.next()) {
 				isValid = true;
