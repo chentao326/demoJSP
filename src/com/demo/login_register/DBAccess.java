@@ -18,17 +18,6 @@ public class DBAccess {
     private String pwd = "root";
     private String driver = "com.mysql.jdbc.Driver";
 
-//    public static Connection getCon() throws Exception {
-//        Class.forName(driver);
-//        Connection con = DriverManager.getConnection(url, user, pwd);
-//        return con;
-//    }
-//
-//    public static void getClose(Connection con) throws SQLException {
-//        if (con != null) {
-//            con.close();
-//        }
-
 
     private Connection conn = null;
 

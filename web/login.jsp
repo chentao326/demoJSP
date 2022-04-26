@@ -8,13 +8,57 @@
 
 
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
-<%String path = request.getContextPath();
+<%
+    String path = request.getContextPath();
     String basePath = request.getScheme() + "://"
             + request.getServerName() + ":" + request.getServerPort()
             + path + "/";
 %>
 <html>
 <head>
+    <style>
+        #poster {
+            background: url("WEB-INF/images/eva.jpg") no-repeat;
+            background-position: center;
+            height: 100%;
+            width: 100%;
+            background-size: cover;
+            position: fixed;
+        }
+
+        body {
+            margin: 0px;
+        }
+
+        .login-container {
+            border-radius: 15px;
+            background-clip: padding-box;
+            margin: 90px auto;
+            width: 350px;
+            padding: 35px 35px 15px 35px;
+            background: #fff;
+            border: 1px solid #eaeaea;
+            box-shadow: 0 0 25px #cac6c6;
+        }
+
+        .login_title {
+            margin: 0px auto 30px auto;
+            text-align: center;
+            color: #505458;
+        }
+
+        .login-a {
+            font-size: 0.7px;
+            text-decoration: none;
+            color: grey;
+        }
+
+        table {
+            margin: 0 auto;
+        }
+
+
+    </style>
 
     <meta http-equiv="pragma" content="no-cache">
     <meta http-equiv="cache-control" content="no-cache">
@@ -24,42 +68,44 @@
     <base href="<%=basePath%>">
     <title>login</title>
 </head>
-<body>
 
-<div id="login_frame">
+<body id="poster">
+
+<div>
+    <form name="form1" action="UserServlet.do?method=login" method="post" class="login-container" label-position="left"
+          label-width="0px">
+        <h3 class="login_title">系统登录</h3>
+        <table>
+            <tr>
+                <td>
+                    <input type="text" name="username" placeholder="请输入用户名"/>
+                    <br/>
+                </td>
+            </tr>
+
+            <tr>
+                <td>
+                    <input type="password" name="password" placeholder="请输入密码"/>
+                    <br/>
+                </td>
+            </tr>
+
+            <tr>
+                <td>
+                    <input style="width: 100%;background: #505458;border: none" type="submit" name="submit" value="登录">
+
+                </td>
+
+            </tr>
+            <tr>
+                <td>
+                    <a class="login-a" href="register.jsp">注册新用户</a>
+                </td>
+            </tr>
+        </table>
+    </form>
+</div>
 
 
-<%--    <form name="form1" action="UserServlet.do?method=login" method="post">--%>
-
-<%--        <p><label class="label_input">用户名</label><input type="text" name="username" id="username" class="text_field"/></p>--%>
-<%--        <p><label class="label_input">密码</label><input type="password" name="password" id="password" class="text_field"/></p>--%>
-
-<%--        <div id="login_control">--%>
-<%--            <input type="submit" name="submit" id="btn_login" value="登录" onclick="login();"/>--%>
-<%--            <a href="register.jsp">注册新用户</a>--%>
-<%--        </div>--%>
-<%--    </form>--%>
-<%--</div>--%>
-
-<form name="form1" action="UserServlet.do?method=login" method="post">
-<%--<form name="form1" action="login" method="post">--%>
-    <table width="200" border="1">
-        <tr>
-            <td colspan="2">登录窗口</td>
-        </tr>
-        <tr>
-            <td>用户名</td>
-            <td><input type="text" name="username" size="10"></td>
-        </tr>
-        <tr>
-            <td>密码</td>
-            <td><input type="password" name="password" size="10"></td>
-        </tr>
-        <tr>
-            <td colspan="2"><input type="submit" name="submit" value="登录"> <a
-                    href="register.jsp">注册新用户</a></td>
-        </tr>
-    </table>
-</form>
 </body>
 </html>
