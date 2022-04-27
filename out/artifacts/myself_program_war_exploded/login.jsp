@@ -18,7 +18,7 @@
 <head>
     <style>
         #poster {
-            background: url("WEB-INF/images/eva.jpg") no-repeat;
+            background: url("images/eva.jpg") no-repeat;
             background-position: center;
             height: 100%;
             width: 100%;

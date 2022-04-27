@@ -8,39 +8,24 @@
   <component name="ChangeListManager">
     <list default="true" id="8d6af6bd-592c-431e-8cf3-2be114687d6d" name="Default Changelist" comment="update">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/myself_program_war_exploded/WEB-INF/classes/com/demo/JDBCUtill.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/myself_program_war_exploded/WEB-INF/classes/com/demo/login_register/DBAccess.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/myself_program_war_exploded/WEB-INF/classes/com/demo/login_register/DBAccess.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/myself_program_war_exploded/WEB-INF/classes/com/demo/login_register/JDBCUtill.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/myself_program_war_exploded/WEB-INF/classes/com/demo/login_register/User.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/myself_program_war_exploded/WEB-INF/classes/com/demo/login_register/loginDao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/myself_program_war_exploded/WEB-INF/classes/com/demo/login_register/login_servlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/myself_program_war_exploded/WEB-INF/classes/com/demo/login_register/registerServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/myself_program_war_exploded/WEB-INF/classes/com/demo/servlet/UserServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/myself_program_war_exploded/WEB-INF/classes/com/demo/servlet/UserServlet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/myself_program_war_exploded/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/myself_program_war_exploded/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/myself_program_war_exploded/WEB-INF/images/Thumbs.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/myself_program_war_exploded/WEB-INF/images/logo2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/myself_program_war_exploded/WEB-INF/images/logo3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/myself_program_war_exploded/WEB-INF/images/logo4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/myself_program_war_exploded/WEB-INF/images/logo5.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/myself_program_war_exploded/WEB-INF/images/logo6.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/myself_program_war_exploded/WEB-INF/images/logo7.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/myself_program_war_exploded/WEB-INF/images/logo8.bmp" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/artifacts/myself_program_war_exploded/login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/myself_program_war_exploded/login.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/myself_program/com/demo/JDBCUtill.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/myself_program/com/demo/login_register/DBAccess.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/myself_program/com/demo/login_register/DBAccess.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/myself_program/com/demo/login_register/JDBCUtill.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/myself_program/com/demo/login_register/User.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/myself_program/com/demo/login_register/loginDao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/myself_program/com/demo/login_register/login_servlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/myself_program/com/demo/login_register/registerServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/myself_program/com/demo/servlet/UserServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/myself_program/com/demo/servlet/UserServlet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/demo/JDBCUtill.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/demo/JDBCUtill.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/demo/login_register/DBAccess.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/demo/login_register/DBAccess.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/demo/login_register/JDBCUtill.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/demo/login_register/JDBCUtill.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/demo/login_register/User.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/demo/login_register/User.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/demo/login_register/loginDao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/demo/login_register/loginDao.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/demo/login_register/login_servlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/demo/login_register/login_servlet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/demo/login_register/registerServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/demo/login_register/registerServlet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/css/login.css" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/css/login.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/images/Thumbs.db" beforeDir="false" afterPath="$PROJECT_DIR$/web/images/Thumbs.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/images/eva.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/web/images/eva.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/images/logo2.png" beforeDir="false" afterPath="$PROJECT_DIR$/web/images/logo2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/images/logo3.png" beforeDir="false" afterPath="$PROJECT_DIR$/web/images/logo3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/images/logo4.png" beforeDir="false" afterPath="$PROJECT_DIR$/web/images/logo4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/images/logo5.bmp" beforeDir="false" afterPath="$PROJECT_DIR$/web/images/logo5.bmp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/images/logo6.bmp" beforeDir="false" afterPath="$PROJECT_DIR$/web/images/logo6.bmp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/images/logo7.bmp" beforeDir="false" afterPath="$PROJECT_DIR$/web/images/logo7.bmp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/images/logo8.bmp" beforeDir="false" afterPath="$PROJECT_DIR$/web/images/logo8.bmp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/web/login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/login.jsp" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -67,11 +52,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/web/login.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="72" selection-start-line="72" selection-end-line="72" />
-              <folding>
-                <element signature="n#style#0;n#input#0;n#td#0;n#tr#2;n#table#0;n#form#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+            <state relative-caret-position="240">
+              <caret line="65" column="61" selection-start-line="65" selection-start-column="61" selection-end-line="65" selection-end-column="61" />
             </state>
           </provider>
         </entry>
@@ -139,8 +121,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -195,6 +175,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -212,15 +194,16 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\pro_jsp\myself_program\web" />
       <recent name="F:\pro_jsp\myself_program\web\WEB-INF\css" />
       <recent name="F:\pro_jsp\myself_program\src\com\demo\servlet" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\pro_jsp\myself_program\web\WEB-INF\images" />
       <recent name="F:\pro_jsp\myself_program\web\WEB-INF\classes\demo" />
       <recent name="F:\pro_jsp\myself_program\src\com\demo\login_register" />
       <recent name="F:\pro_jsp\myself_program\web\WEB-INF" />
       <recent name="F:\pro_jsp\myself_program\web\WEB-INF\classes\demo\javabean" />
-      <recent name="F:\pro_jsp\myself_program\web\WEB-INF\classes\demo\db" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -325,7 +308,8 @@
       <workItem from="1650942464526" duration="2237000" />
       <workItem from="1650959663624" duration="634000" />
       <workItem from="1650960933153" duration="39000" />
-      <workItem from="1650989762907" duration="4142000" />
+      <workItem from="1650989762907" duration="4397000" />
+      <workItem from="1651020857488" duration="661000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1650798502170</created>
@@ -334,17 +318,23 @@
       <option name="project" value="LOCAL" />
       <updated>1650798502171</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="update">
+      <created>1650994960627</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1650994960627</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22771000" />
+    <option name="totallyTimeSpent" value="23687000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18656716" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18869936" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -354,7 +344,7 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.329718" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.28199565" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.28199565" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -366,7 +356,7 @@
       <window_info anchor="bottom" id="Messages" order="11" weight="0.3286334" />
       <window_info anchor="bottom" id="Java Enterprise" order="12" />
       <window_info anchor="bottom" id="Database Changes" order="13" />
-      <window_info anchor="bottom" id="Version Control" order="14" weight="0.329718" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="14" visible="true" weight="0.329718" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -409,21 +399,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/demo/login_register/JDBCUtill.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/demo/login_register/JDBCUtill.java" />
     <entry file="file://$PROJECT_DIR$/src/com/demo/login_register/login_register/User.java" />
     <entry file="file://$PROJECT_DIR$/src/com/demo/login_register/login_register/login_register/User.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/demo/login_register/loginDao.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/demo/login_register/registerServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="12" column="43" selection-start-line="12" selection-start-column="43" selection-end-line="12" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/demo/login_register/loginDao.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/demo/login_register/registerServlet.java" />
     <entry file="file://$PROJECT_DIR$/src/com/demo/javabean/DBAccess.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -443,16 +423,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/demo/login_register/login_servlet.class">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/demo/login_register/login_servlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="20" column="3" selection-start-line="20" selection-start-column="3" selection-end-line="20" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/demo/login_register/login_servlet.class" />
+    <entry file="file://$PROJECT_DIR$/src/com/demo/login_register/login_servlet.java" />
     <entry file="file://$PROJECT_DIR$/web/WEB-INF/classes/demo/servlet/UserServlet.class">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -462,13 +434,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/demo/JDBCUtill.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3571">
-          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/demo/JDBCUtill.java" />
     <entry file="file://$PROJECT_DIR$/web/WEB-INF/classes/demo/login_register/UserBean.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -497,7 +463,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/images/logo2.png">
+    <entry file="file://$PROJECT_DIR$/web/images/logo2.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/demo/javabean/UserBean.java">
@@ -514,13 +480,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
           <caret line="21" column="7" lean-forward="true" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/demo/login_register/UserBean.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
         </state>
       </provider>
     </entry>
@@ -544,13 +503,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/demo/login_register/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/demo/login_register/User.java" />
     <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
@@ -558,11 +511,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/demo/JDBCUtill.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1170" />
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/demo/JDBCUtill.class" />
     <entry file="file://$PROJECT_DIR$/src/com/demo/login_register/DBAccess.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -573,13 +522,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/javascript/login.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/javascript/login.js" />
     <entry file="file://$PROJECT_DIR$/web/register.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
           <caret line="15" column="31" lean-forward="true" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/demo/login_register/UserBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
         </state>
       </provider>
     </entry>
@@ -588,11 +542,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/web/login.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="72" selection-start-line="72" selection-end-line="72" />
-          <folding>
-            <element signature="n#style#0;n#input#0;n#td#0;n#tr#2;n#table#0;n#form#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="240">
+          <caret line="65" column="61" selection-start-line="65" selection-start-column="61" selection-end-line="65" selection-end-column="61" />
         </state>
       </provider>
     </entry>
